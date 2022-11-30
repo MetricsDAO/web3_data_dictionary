@@ -6,6 +6,7 @@
   * [Daily active users (DAU)](index/daily-active-users-dau.md)
   * [DAO Treasury](index/dao-treasury.md)
   * [Emissions vs. Token Issuance](index/emissions-vs.-token-issuance.md)
+  * [Floor price](index/floor-price.md)
   * [Impermanent loss](index/impermanent-loss.md)
   * [Market share](index/market-share.md)
   * [Price slippage](index/price-slippage.md)

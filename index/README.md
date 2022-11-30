@@ -18,9 +18,13 @@ description: in alphabetical order
 
 [Emissions vs. Token Issuance](https://dictionary.metricsdao.xyz/terms-and-definitions/emissions-vs.-token-issuance)
 
+### F
+
+[Floor price](floor-price.md)
+
 ### I
 
-Impermanent Loss
+[Impermanent loss](impermanent-loss.md)
 
 ### M
 
