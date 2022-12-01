@@ -8,22 +8,20 @@
 
 ### Description
 
-The definition of active user wallets rests on defining who the users (customers) are for a particular blockchain, or protocol, or a decentralized exchange (DEX), etc.&#x20;
+The definition of active user wallets rests on defining who the users (customers) are for a particular blockchain, or protocol, or a decentralized exchange (DEX), etc. This involves differentiating users (customers) from "institutional" and/or "not human" addresses in web3 (smart contracts, multisig wallets, intermediary protocols, or bots).&#x20;
 
-Users or customers here are in contrast with "institutional" and/or "not human" addresses in web3 (smart contracts, treasuries and multisig wallets, intermediary protocols, bots).&#x20;
+The actions that characterize a "user" can vary for different objects of analysis. Is one looking for the users of a protocol (and which type of protocol), a blockchain or ecosystem, etc.?&#x20;
 
-The actions of interest that are associated with a "user" in general and therefore with an "active user" can vary considerably by the category in which the object of analysis falls: a protocol (and the type of protocol), a blockchain, and so on.&#x20;
-
-* For instance, a DEX may be interested in "active user" metrics around human users who make swaps, deposit liquidity, and conduct other decentralized finance (DeFi) operations on their platform (this could potentially exclude intermediary transactions, e.g. a swap from a Metamask wallet that is executed on Uniswap).&#x20;
-* However, an NFT marketplace may be interested in users who list, buy, and or/sell assets, among other possible metrics&#x20;
+* For instance, a DEX may be interested in "active user" metrics around human users who make swaps, deposit liquidity, and conduct other decentralized finance (DeFi) operations on their platform. This could potentially exclude intermediary transactions, e.g. a swap from a Metamask wallet that is executed on Uniswap.&#x20;
+* As another example, an NFT marketplace may be interested in users who list, buy, and or/sell assets, among other possible metrics&#x20;
 
 \[1].
 
-Making a distinction among _presumed human_ and _presumed non-human (bot)_ operated wallets can also bring value when calculating the number of active user wallets. Bot detection is a young branch of blockchain data science, and there is significant progress yet to be made.
+Another dimension is to make a distinction between _presumed human_ and _presumed non-human (bot)_ operated wallets.&#x20;
 
-An additional dimension deals with what constitutes sufficient activity for "active" user wallets. For instance, does one transaction a month qualify the wallet as "active" for that month?
+Finally, one can look at what constitutes sufficient activity for "active" user wallets. For instance, does one transaction a month qualify the wallet as "active" for that month?
 
-This definition and supporting materials are in progress, with the goal being to lay out broad categories of users and active users relevant for different categories of blockchain "institutional" actors \[2].
+This definition and supporting materials are in progress. The goal is to lay out broad categories of users in general, and active users in particular, that may be relevant for different types of entities on the blockchain \[2].
 
 ### References
 
