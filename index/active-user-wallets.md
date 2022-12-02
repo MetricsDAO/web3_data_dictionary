@@ -8,7 +8,7 @@
 
 ### Description
 
-_This definition and supporting materials are in progress. The goal is to lay out broad categories of users in general, and active users in particular, that may be relevant for different types of entities on the blockchain \[1]._
+_This definition and supporting materials are in progress._ [_@angelaminster_](https://twitter.com/angelaminster) _and her team are working to lay out broad categories of users that may be relevant for different types of entities on the blockchain, and standardize queries for them \[1]._
 
 A definition of active user wallets rests on defining who the users (customers) are for a particular blockchain, or protocol, or a decentralized exchange (DEX), etc. This involves differentiating users (customers) from "institutional" and/or from "not human" addresses in web3 (smart contracts, multisig wallets, intermediary protocols, or bots).&#x20;
 
