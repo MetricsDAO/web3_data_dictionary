@@ -30,6 +30,10 @@ description: in alphabetical order
 
 [Market share](https://dictionary.metricsdao.xyz/terms-and-definitions/market-share)
 
+### N
+
+Nonce
+
 ### P
 
 [Price slippage](https://dictionary.metricsdao.xyz/terms-and-definitions/price-slippage)

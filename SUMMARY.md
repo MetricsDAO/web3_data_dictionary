@@ -9,6 +9,7 @@
   * [Floor price](index/floor-price.md)
   * [Impermanent loss](index/impermanent-loss.md)
   * [Market share](index/market-share.md)
+  * [Nonce](index/nonce.md)
   * [Price slippage](index/price-slippage.md)
   * [Revenue](index/revenue.md)
   * [Trading volume](index/trading-volume.md)
